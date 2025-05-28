@@ -1,6 +1,6 @@
 ## Hi, I am Bhoomi 
 
-💻 Studying AI at at Dr DY Patil.<br> 
+💻 Studying AI at Dr DY Patil.<br> 
 🌷 Hope to help make technology better for everyone.<br>
 👀 Always looking into new tech ideas and tools.<br> 
 ✨ Love making cool and useful software projects.
