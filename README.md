@@ -1,4 +1,4 @@
-##[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg)
 
 💻 Studying AI at Dr DY Patil.<br> 
 🌷 Hope to help make technology better for everyone.<br>
