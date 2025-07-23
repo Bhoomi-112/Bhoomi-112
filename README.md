@@ -29,7 +29,7 @@
 
 ## 🐍 GitHub Activity Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Bhoomi-112/Bhoomi-112/output/github-dark-snake.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/Bhoomi-112/Bhoomi-112/output/github-snake-dark.svg)
 
 
 
