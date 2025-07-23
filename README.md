@@ -24,15 +24,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhoomi-112&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhoomi-112&theme=aura_dark&utcOffset=8)
 
-#
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ Bhoomi-112/Bhoomi-112/ }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/snake.gif?color_snake=orange
-![GitHub Snake](https://github.com/Bhoomi-112/Bhoomi-112/blob/output/dist/github-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhoomi-112&icon=0&color=0)](https://visitcount.itsvg.in)
 
