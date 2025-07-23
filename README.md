@@ -27,6 +27,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhoomi-112&theme=aura_dark&utcOffset=8)
 
 
+## 🐍 GitHub Activity Snake
+
+![Snake animation](https://raw.githubusercontent.com/Bhoomi-112/Bhoomi-112/output/github-snake.svg)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhoomi-112&icon=0&color=0)](https://visitcount.itsvg.in)
 
