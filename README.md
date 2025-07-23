@@ -28,12 +28,8 @@
 
 
 ## 🐍 GitHub Activity Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-![Snake animation](https://raw.githubusercontent.com/Bhoomi-112/Bhoomi-112/output/github-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/Bhoomi-112/Bhoomi-112/output/github-dark-snake.svg)
 
 
 ---
