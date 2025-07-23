@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: Bhoomi-112
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake-dark.svg
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
