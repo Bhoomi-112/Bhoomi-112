@@ -29,7 +29,8 @@
 
 ## 🐍 GitHub Activity Snake
 
-![Snake animation](https://raw.githubusercontent.com/Bhoomi-112/Bhoomi-112/output/github-dark-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Bhoomi-112/Bhoomi-112/output/github-dark-snake.svg)
+
 
 
 ---
