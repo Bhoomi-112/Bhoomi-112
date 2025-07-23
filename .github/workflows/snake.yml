@@ -1,18 +1,33 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 18 * * *" # Midnight IST (18:00 UTC)
+    - cron: '30 18 * * *'  # Midnight IST
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    name: Generate GitHub Contribution Snake
     steps:
-      - name: Generate GitHub Contribution Snake
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Bhoomi-112
           outputs: |
-            dist/github-snake.svg?color_snake=#8e44ad&color_dots=#000000,#8e44ad,#9b59b6,#af7ac5,#d2b4de
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
