@@ -3,7 +3,7 @@
 💻 Studying AI at Dr DY Patil.<br> 
 🌷 Hope to help make technology better for everyone.<br>
 👀 Always looking into new tech ideas and tools.<br> 
-✨ Love making cool and useful software projects.
+✨ Love making cool and useful software projects.<img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="300"/> 
 
 
 ## 🌐 Socials:
