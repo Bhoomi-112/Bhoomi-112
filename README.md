@@ -1,5 +1,5 @@
 
- <img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Dance cat.gif" width="120"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Benguiat+Bold&weight=500&size=32&duration=4000&pause=1000&color=FFD700CF&center=true&vCenter=true&width=435&height=70&lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg) <img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Dance cat.gif" width="120"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Benguiat+Bold&weight=500&size=32&duration=4000&pause=1000&color=FFD700CF&center=true&vCenter=true&width=435&height=70&lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg) 
 
 
 💻 Studying AI at Dr DY Patil.<br> 
