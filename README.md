@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bhoomi01979) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomi-awhad) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bhoomiawhad02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhoomiawhad02@gmail.com) <img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Lurking Cat.gif" width="40"/>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bhoomi01979) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomi-awhad) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bhoomiawhad02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhoomiawhad02@gmail.com) <img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Lurking Cat.gif" height="30"/>
 
 # 💻 Tech Stack:
 
@@ -17,6 +17,7 @@
 
 #
 <img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Lazy cat.gif" width="120"/>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhoomi-112&theme=aura_dark)
 
 # 📊 GitHub Stats:
