@@ -1,6 +1,4 @@
 
-<img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="120"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Benguiat+Bold&weight=500&size=28&duration=4000&pause=1000&color=FFD700CF&center=true&vCenter=true&width=600&height=70&lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg) <img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Dance cat.gif" width="120"/>
 
 
@@ -29,6 +27,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhoomi-112&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhoomi-112&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhoomi-112&theme=aura_dark&utcOffset=8)
+#
+
+<img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="120"/>
 
 
 ## 🐍 GitHub Activity Snake
