@@ -20,7 +20,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhoomi-112&theme=aura_dark)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: <img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="120"/>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhoomi-112&theme=aura_dark)
@@ -29,7 +29,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhoomi-112&theme=aura_dark&utcOffset=8)
 #
 
-<img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="120"/>
+
 
 
 ## 🐍 GitHub Activity Snake
