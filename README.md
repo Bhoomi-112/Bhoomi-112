@@ -1,5 +1,7 @@
 
-<img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="220"/> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg)
+<!--<img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="120"/> -->
+![Alt Text](./assets/Loader cat.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg)
 
 
 
