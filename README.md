@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg)
-<img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="220"/> 
+
+<img src="https://github.com/Bhoomi-112/Bhoomi-112/blob/main/assets/Loader cat.gif" width="220"/> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg)
+
 
 
 💻 Studying AI at Dr DY Patil.<br> 
