@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Benguiat+Bold&weight=500&size=32&duration=4000&pause=1000&color=FFD700CF&center=true&vCenter=true&width=435&height=70&lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Benguiat+Bold&weight=500&size=28&duration=4000&pause=1000&color=D432FFCF&center=true&vCenter=true&width=435&height=70&lines=Hi!+I+am+Bhoomi)](https://git.io/typing-svg)
 
 
 💻 Studying AI at Dr DY Patil.<br> 
